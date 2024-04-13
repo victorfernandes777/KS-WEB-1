@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Iframe with in an Iframe</name>
+   <tag></tag>
+   <elementGuidId>7735ff2c-832c-46ff-a49d-8140da2e4b91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;singleframe&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09a77b1f-c428-4c15-97a3-50b1c04a0bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#Multiple</value>
+      <webElementGuid>2d10cee8-a935-4cad-bf8c-275606353d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>b21b26b9-4fff-4274-85c1-a3cf77d750c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>analystic</value>
+      <webElementGuid>91383a4c-f443-4bb3-a011-f920ce53f913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iframe with in an Iframe</value>
+      <webElementGuid>0f37ebea-b8fd-4e42-9506-ef2de5456701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[1]/div[@class=&quot;container center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-xs-offset-2&quot;]/div[@class=&quot;nav nav-tabs&quot;]/div[@class=&quot;col-xs-11 col-xs-offset-1&quot;]/div[@class=&quot;tabpane&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[2]/a[@class=&quot;analystic&quot;]</value>
+      <webElementGuid>ff2e780b-277b-4ec8-866a-92d6353c72a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Iframe with in an Iframe')]</value>
+      <webElementGuid>55ff34df-5de3-4a61-b930-c196364ce4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single Iframe'])[1]/following::a[1]</value>
+      <webElementGuid>8465cba9-ed5b-48ec-9018-997fa8026118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Site'])[1]/following::a[2]</value>
+      <webElementGuid>8b525262-0c51-4625-bee0-c8922455013b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[7]</value>
+      <webElementGuid>5ae66df1-4c2e-46e2-b528-c03a3efa1db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iframe with in an Iframe']/parent::*</value>
+      <webElementGuid>aa8bdc4d-93ea-44ab-a7a4-bacd658b21e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#Multiple')]</value>
+      <webElementGuid>06669285-b245-4b54-b3f7-311463b8efb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li[2]/a</value>
+      <webElementGuid>87ea662c-cca5-4bb0-9cb3-0334a017d3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#Multiple' and (text() = 'Iframe with in an Iframe' or . = 'Iframe with in an Iframe')]</value>
+      <webElementGuid>00041a5c-131e-4b4a-986d-7233155e54ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectSeleniumQTPManual TestingAutomation TestingPerformance Testing</name>
+   <tag></tag>
+   <elementGuidId>5ec2bc2c-d191-4ba5-b5de-2933ce61a789</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='dropdown']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;dropdown&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f543c0ee-3a7d-41f3-bac1-055bad2c54ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>spTextField</value>
+      <webElementGuid>fe81dce6-f4f1-4786-bfd1-8be86561a491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>3e3e212f-2ced-429c-852a-2a46c301e29b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>–Select–SeleniumQTPManual TestingAutomation TestingPerformance Testing</value>
+      <webElementGuid>798fff7a-f799-4fbd-b84a-d8d58904478a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-1688&quot;)/div[@class=&quot;entry-content-wrap&quot;]/div[@class=&quot;entry-content single-content&quot;]/form[1]/p[7]/select[@class=&quot;spTextField&quot;]</value>
+      <webElementGuid>488da7b1-fd59-4cff-94aa-cf0a7b233a48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='dropdown']</value>
+      <webElementGuid>aa077104-2252-467a-82cf-dd512cd3a631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-1688']/div/div/form/p[7]/select</value>
+      <webElementGuid>233316ac-6425-4f67-9fcf-bfe1b06064c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your comments here…'])[1]/following::select[2]</value>
+      <webElementGuid>bcf19560-b309-498e-83f4-fda10888a0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Text File'])[1]/preceding::select[1]</value>
+      <webElementGuid>a6dfd865-de05-480f-8a14-ee3bd50a17dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Doc File'])[1]/preceding::select[1]</value>
+      <webElementGuid>e7d6d0a9-cc21-4bb4-8158-a85c78a57444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]/select</value>
+      <webElementGuid>283df7c0-ff97-49fd-9496-8c824cc5c66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'dropdown' and (text() = '–Select–SeleniumQTPManual TestingAutomation TestingPerformance Testing' or . = '–Select–SeleniumQTPManual TestingAutomation TestingPerformance Testing')]</value>
+      <webElementGuid>8f9fbd33-e83f-4446-b2e6-3735cf557c50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

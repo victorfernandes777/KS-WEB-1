@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16_Login_from_Internal_file</name>
+   <tag>2403</tag>
+   <comment></comment>
+   <testCaseGuid>0ee809c3-d1c1-4b3d-b944-a9ea3f6bbca2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>dd9196e2-89b4-4223-a332-92bcec715cdb</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login_Data/Internal Data file</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>dd9196e2-89b4-4223-a332-92bcec715cdb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Uname</value>
+      <variableId>7ab12a70-ce4c-4c13-b031-c5bf7673e0a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>dd9196e2-89b4-4223-a332-92bcec715cdb</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Upass</value>
+      <variableId>683f3c4f-b96e-4461-a375-a991c86234db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ab12a70-ce4c-4c13-b031-c5bf7673e0a9</id>
+      <masked>false</masked>
+      <name>Uname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>683f3c4f-b96e-4461-a375-a991c86234db</id>
+      <masked>false</masked>
+      <name>Upass</name>
+   </variable>
+</TestCaseEntity>

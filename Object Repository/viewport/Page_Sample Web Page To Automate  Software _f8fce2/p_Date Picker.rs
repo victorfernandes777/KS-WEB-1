@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Date Picker</name>
+   <tag></tag>
+   <elementGuidId>e38f5197-86c8-489f-adcc-743d40a485b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-1688']/div/div/form/p[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(8)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b6dca2df-1a64-49b0-95d6-b77df73b351a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date Picker: </value>
+      <webElementGuid>d951c1ab-215f-47aa-b233-a4f07969fb20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-1688&quot;)/div[@class=&quot;entry-content-wrap&quot;]/div[@class=&quot;entry-content single-content&quot;]/form[1]/p[8]</value>
+      <webElementGuid>fe7017e9-b511-4a37-b81a-32cbb7459cab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-1688']/div/div/form/p[8]</value>
+      <webElementGuid>c2613c4f-a433-4fb7-a6b1-ee4667397c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your comments here…'])[1]/following::p[5]</value>
+      <webElementGuid>5fdc75de-8856-434b-9ff4-d2110f2919b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Text File'])[1]/preceding::p[2]</value>
+      <webElementGuid>d186ed71-6cea-4c9d-9941-4ce0167a55c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Doc File'])[1]/preceding::p[2]</value>
+      <webElementGuid>8a36d141-ec3c-4b86-bd15-32cd6ccc105b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Date Picker:']/parent::*</value>
+      <webElementGuid>089d039b-7589-49fa-a66d-e36bc521820b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[8]</value>
+      <webElementGuid>f58d36d6-3245-450d-b2c7-c3e2ef8f1298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Date Picker: ' or . = 'Date Picker: ')]</value>
+      <webElementGuid>087df4a9-51a7-40c9-ac62-2a0b75ee112e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

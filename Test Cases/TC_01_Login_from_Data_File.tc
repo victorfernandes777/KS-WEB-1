@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Login_from_Data_File</name>
+   <tag>2403</tag>
+   <comment></comment>
+   <testCaseGuid>c916709f-ab39-49ed-80da-d7a601f749ae</testCaseGuid>
+</TestCaseEntity>

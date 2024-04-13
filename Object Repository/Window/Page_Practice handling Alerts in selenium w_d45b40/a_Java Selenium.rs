@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Java Selenium</name>
+   <tag></tag>
+   <elementGuidId>e9a6fb34-ada2-4387-9c0d-0b759d523d76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='head'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d1bf515-7956-4155-adeb-ab7a0bf89487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link head active white</value>
+      <webElementGuid>dfb48811-6b24-4cc1-a0f5-f8c1b93c203a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://chercher.tech/java/index-selenium-webdriver</value>
+      <webElementGuid>946ba434-c94c-4a75-9abe-a826c440c694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>head</value>
+      <webElementGuid>5b9b4f4f-7ded-4596-827f-61efd8378605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Java Selenium</value>
+      <webElementGuid>376893c8-db66-4b78-9744-d9d0c93c9f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarResponsive1&quot;)/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@id=&quot;head&quot;]</value>
+      <webElementGuid>859672b3-a9a3-420f-89ab-7b28e01fb781</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='head'])[2]</value>
+      <webElementGuid>97290b50-411b-4429-abaf-e2bfb43727dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarResponsive1']/ul/li[2]/a</value>
+      <webElementGuid>400da335-d9e4-4fe2-94bb-bfd63848f243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Java Selenium')]</value>
+      <webElementGuid>39410505-dfed-4a8c-a001-edd8cb120791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>6b20cb63-4a1f-410a-9a71-9bcd60a3140a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CherCher.Tech'])[1]/following::a[2]</value>
+      <webElementGuid>70c567d0-df6f-4032-bff5-64bc9a611dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium [Python]'])[1]/preceding::a[1]</value>
+      <webElementGuid>1d54e862-bfed-4eec-9195-bbee9ccd947f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UiPath'])[1]/preceding::a[2]</value>
+      <webElementGuid>322f8d81-7507-4706-a39c-718e76a9dc59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Java Selenium']/parent::*</value>
+      <webElementGuid>8b683ab1-f150-4aa4-820a-38bd95985303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://chercher.tech/java/index-selenium-webdriver')]</value>
+      <webElementGuid>fd1d52dc-512c-4f29-8f31-e4dc65ca9e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>d8cba92f-aebb-4639-b2e8-870db19409ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://chercher.tech/java/index-selenium-webdriver' and @id = 'head' and (text() = 'Java Selenium' or . = 'Java Selenium')]</value>
+      <webElementGuid>f790b91a-b77f-4411-bcec-5130c18425d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

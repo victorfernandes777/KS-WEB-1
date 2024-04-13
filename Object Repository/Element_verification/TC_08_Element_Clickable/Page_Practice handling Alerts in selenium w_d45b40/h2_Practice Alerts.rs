@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Practice Alerts</name>
+   <tag></tag>
+   <elementGuidId>b4433bc7-23ed-4fec-a4c7-5d1412244aa0</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.title</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Practice Alerts' or . = 'Practice Alerts')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page-top']/div/div/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b82c4035-db76-465e-8e46-f56e1b6ae584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>f22cb241-87e5-4c91-ac4d-91125bbe30d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Practice Alerts</value>
+      <webElementGuid>fb0cfe98-f025-4fb7-8de2-eed1b8ceecbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-top&quot;)/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-header&quot;]/h2[@class=&quot;title&quot;]</value>
+      <webElementGuid>8a34dd03-7e19-451e-8587-0861cbb00e63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page-top']/div/div/div/div/div/div/h2</value>
+      <webElementGuid>e9019bce-967a-47fa-a6ae-1c62ee2cbc61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice PopUps'])[1]/following::h2[1]</value>
+      <webElementGuid>ae68642d-30d7-4577-8fe4-70a36953c6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium'])[1]/following::h2[1]</value>
+      <webElementGuid>77de1cf1-0dd8-4abc-b4f0-4e9b0510bb8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Menu [Hover On Me]'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6cf9bf90-ed5e-48aa-b227-ed872805a2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CherCher Tech'])[1]/preceding::h2[1]</value>
+      <webElementGuid>be833182-cf76-4acc-98ac-b348477828d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Practice Alerts']/parent::*</value>
+      <webElementGuid>a4754154-c674-4670-8efc-d44b3f08f167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>9ad6def6-1c99-4e62-b739-f295fa6f0034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Practice Alerts' or . = 'Practice Alerts')]</value>
+      <webElementGuid>02245774-f0e4-4ef1-b7e5-cc7f0ac642dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
