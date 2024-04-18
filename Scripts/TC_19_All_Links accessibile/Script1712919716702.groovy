@@ -22,8 +22,13 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://demoqa.com/automation-practice-form')
 
 WebUI.delay(5)
-
-WebUI.verifyImagePresent(findTestObject('image/Page_DEMOQA/img'))
-
+def list = [];
+list = WebUI.getAllLinksOnCurrentPage(true, [])
+int j=list.size;
+println("total links=" +j)
+for(int i=0;i<j;i++)
+{
+println (list[i])
+}
 WebUI.closeBrowser()
 

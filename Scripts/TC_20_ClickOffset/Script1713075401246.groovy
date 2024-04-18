@@ -19,11 +19,18 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demoqa.com/automation-practice-form')
+WebUI.navigateToUrl('https://recursive.codes/blog/post/1260')
 
+WebUI.scrollToElement(findTestObject('image/Page_DEMOQA/image_clickon'), 4)
+
+WebUI.clickOffset(findTestObject('image/Page_DEMOQA/image_clickon'), 100, 100)
+
+WebUI.click(findTestObject('image/Page_DEMOQA/Close'))
+
+//WebUI.delay(5)
 WebUI.delay(5)
 
-WebUI.verifyImagePresent(findTestObject('image/Page_DEMOQA/img'))
+WebUI.delay(5)
 
 WebUI.closeBrowser()
 

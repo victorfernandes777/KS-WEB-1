@@ -48,7 +48,7 @@
       <guid>c87b5322-0d60-4406-9c0a-77ee28442b74</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_18_image_present</testCaseId>
+      <testCaseId>Test Cases/TC_18_Elementtext</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -62,7 +62,7 @@
       <guid>a44c0f1b-5c7b-454a-861e-d5626600c4a5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_20_Element text</testCaseId>
+      <testCaseId>Test Cases/TC_20_ClickOffset</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
